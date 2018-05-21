@@ -1,0 +1,2 @@
+voici du texte de grande qualité littéraire
+pour la création d’un fichier supplémentaire dans le cadre du cours git sur OpenClassroom.
