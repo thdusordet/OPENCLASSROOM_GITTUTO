@@ -3,3 +3,6 @@ voilà un second fichier texte, parce que je reprends les cours après 25 jours 
 OMG 😳
 
 Du coup c'est aussi sur ce fichier que je vais répéter les opérations de la commande git pull
+
+
+Mais aussi depuis ma machine locale. eh eh 
